@@ -14,7 +14,7 @@ def fibonacci():
 
 def unit_step():
     # module to create a unit step input signal
-
+    # Der Text hier ist nur für ein Test commit.
     def u(n):
         if n >= 0:
             return 1
