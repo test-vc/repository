@@ -1,5 +1,5 @@
 def main():
-  print('test function')
+  print('run test function')
   return 0
 
 if __name__ == "__main__":
